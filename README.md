@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshaya-algsn
 - 👀 I’m interested in Exploring
 - 🌱 I’m currently learning python django
-- 💞️ I’m looking forreal time experiences
+- 💞️ I’m looking for real time experiences
 
 <!---
 akshaya-algsn/akshaya-algsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
